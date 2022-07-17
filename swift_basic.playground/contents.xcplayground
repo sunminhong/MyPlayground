@@ -5,5 +5,6 @@
         <page name='swift_basic01'/>
         <page name='swift_basic02'/>
         <page name='swift_basic03'/>
+        <page name='swift_basic04'/>
     </pages>
 </playground>
