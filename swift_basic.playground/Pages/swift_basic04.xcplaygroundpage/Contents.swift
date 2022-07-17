@@ -65,7 +65,7 @@ case -20...9:
 case 15...25:
   print("봄")
 case 26...35:
-  print("여름")
+  print("여름5")
 default:
   print("이상 기후")
 }
